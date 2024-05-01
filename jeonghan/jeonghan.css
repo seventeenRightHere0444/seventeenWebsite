@@ -118,13 +118,16 @@ body {
 }
 
 .member-info ul {
-    text-align: center;
+    text-align: left;
     list-style: none;
     padding: 0;
+    
 }
 
 .member-info ul li {
     margin-bottom: 10px;
+    align-items: left;
+    margin-left: 220px;
 }
 
 .member-info ul ul {
@@ -133,6 +136,7 @@ body {
 
 .member-info ul ul li {
     margin-bottom: 5px;
+    margin-left: 20px;
 }
 
 
