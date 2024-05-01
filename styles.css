@@ -235,6 +235,20 @@ footer {
     position: relative;
 }
 
+.video {
+    text-align: center;
+    margin-top: 50px;
+    position: relative; /* Add relative positioning */
+    z-index: 2; /* Ensure content appears above background */
+
+}
+
+.video h2 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
 .new-album-image img {
     width: 100%;
     border-radius: 10px;
